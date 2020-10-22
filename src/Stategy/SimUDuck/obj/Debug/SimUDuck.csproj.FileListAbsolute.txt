@@ -1,0 +1,6 @@
+C:\Users\GUILLERMO\Desktop\head-first-design-patterns-master\head-first-design-patterns-master\src\Stategy\SimUDuck\bin\Debug\SimUDuck.dll
+C:\Users\GUILLERMO\Desktop\head-first-design-patterns-master\head-first-design-patterns-master\src\Stategy\SimUDuck\bin\Debug\SimUDuck.pdb
+C:\Users\GUILLERMO\Desktop\head-first-design-patterns-master\head-first-design-patterns-master\src\Stategy\SimUDuck\obj\Debug\SimUDuck.csprojAssemblyReference.cache
+C:\Users\GUILLERMO\Desktop\head-first-design-patterns-master\head-first-design-patterns-master\src\Stategy\SimUDuck\obj\Debug\SimUDuck.csproj.CoreCompileInputs.cache
+C:\Users\GUILLERMO\Desktop\head-first-design-patterns-master\head-first-design-patterns-master\src\Stategy\SimUDuck\obj\Debug\SimUDuck.dll
+C:\Users\GUILLERMO\Desktop\head-first-design-patterns-master\head-first-design-patterns-master\src\Stategy\SimUDuck\obj\Debug\SimUDuck.pdb
