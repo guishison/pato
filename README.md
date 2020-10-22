@@ -1,8 +1,4 @@
-Head First Design Patterns
+Pato
 ==========================
 
-Head First Design Patterns from Java to C#. For the moment only available:
-
-* Strategy
-* Observer
-* Decorator
+Taller para la Maestria
